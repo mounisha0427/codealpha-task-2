@@ -56,14 +56,3 @@ TSLA: 3 shares × ₹250 = ₹750
  Completed
  Tested
  Submitted
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
-
